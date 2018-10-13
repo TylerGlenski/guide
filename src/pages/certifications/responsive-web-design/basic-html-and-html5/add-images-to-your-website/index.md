@@ -13,3 +13,23 @@ Attributes are key value pairs inserted into the tag. The syntax is `<tag key1="
 
 ### Resources
  - [HTML attributes](https://guide.freecodecamp.org/html/attributes)
+ 
+ ## Code Solution:
+ 
+ ```html
+ 
+ <img src="https://bit.ly/fcc-relaxing-cat" alt="Loading"/>
+
+<h2>CatPhotoApp</h2>
+<main>
+
+  <p>
+    Kitty ipsum dolor sit amet, shed everywhere shed everywhere stretching attack your ankles chase the red dot,
+    hairball run catnip eat the grass sniff.
+  </p>
+  <p>
+   Purr jump eat the grass rip the couch scratched sunbathe, shed everywhere rip the couch sleep in the sink fluffy fur catnip scratched.
+ </p>
+</main>
+ 
+ ```
